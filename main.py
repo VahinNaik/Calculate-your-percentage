@@ -14,5 +14,5 @@ elif percentage<=99:
 elif percentage<=100:
   print("Get a life NERD!!(A+)")
 else:
-  print("WTF how!!(A++)")
+  print("How!!(A++)")
 print(str(percentage )+ "%")
